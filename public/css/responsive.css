@@ -1,0 +1,185 @@
+@media (max-width : 991px) {
+    #applicantpro .applicantpro_main {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    #applicantpro .ap_title {
+        font-size: 30px;
+        line-height: 30px;
+        padding: 0 !important;
+    }
+
+    #applicantpro .ap_title_2,
+    .ap_title_3 {
+        font-size: 26px;
+        line-height: 26px;
+    }
+
+    #applicantpro .ap_title_5 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    #applicantpro .ap_title_4 {
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    #applicantpro .right-sidebar {
+        margin-top: 20px;
+    }
+
+    #applicantpro .right-sidebar .apply-now {
+        display: none;
+    }
+
+    #applicantpro .search-job,
+    #applicantpro .search-job.job-details {
+        padding-top: 15px !important;
+        padding-bottom: 15px !important;
+    }
+
+    #applicantpro .search-input {
+        margin-top: 5px;
+    }
+
+    #applicantpro .search-input input,
+    #applicantpro .search-input select,
+    #applicantpro .search-input button {
+        margin-top: 5px;
+    }
+
+    #applicantpro .joblist li {
+        padding: 10px;
+    }
+
+    #applicantpro .joblist li h4 {
+        margin-bottom: 7px;
+    }
+
+    #applicantpro .mt-40 {
+        margin-top: 20px;
+    }
+
+    #applicantpro .mb-50 {
+        margin-bottom: 25px;
+    }
+
+    #applicantpro .news-details h2,
+    #applicantpro .news-details h3 {
+        margin-bottom: 10px;
+        padding-bottom: 8px;
+    }
+
+    #applicantpro .news-details .job-time {
+        margin-bottom: 10px;
+    }
+
+    #applicantpro p {
+        margin-bottom: 10px;
+    }
+
+    #applicantpro .news-details ul,
+    #applicantpro .news-details ol {
+        margin-bottom: 10px;
+    }
+
+    #applicantpro .apply-now a {
+        margin-bottom: 15px;
+    }
+
+    #applicantpro .applicant {
+        margin-top: 5px;
+    }
+
+    .ap-col-3 {
+        width: 100%;
+    }
+
+    .applicant_job_search .ap-col-3 {
+        margin-top: 5px;
+    }
+
+    .ap_render {
+        margin-top: 20px;
+    }
+
+    .applicant-city {
+        margin-top: 30px;
+    }
+
+    #applicantpro .svgMap {
+        padding-top: 10px;
+    }
+
+    .leftCol,
+    .news-details {
+        width: 100%;
+    }
+
+    .ap_render {
+        margin-bottom: 40px;
+    }
+
+    .right-sidebar {
+        width: 100%;
+        margin: 0 0 20px 0;
+    }
+
+    #applicantpro .apply-now.apply-bottom {
+        margin: 20px auto 0;
+    }
+
+    #applicantpro .news-details .apply-now.apply-bottom a {
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width : 800px) {}
+
+@media (max-width : 767px) {
+
+    #applicantpro .ap_title {
+        font-size: 24px;
+        line-height: 24px;
+    }
+
+    #applicantpro .ap_title_2,
+    .ap_title_3 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    #applicantpro .ap_title_5 {
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    #applicantpro .ap_title_4 {
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    #applicantpro .joblist {
+        margin-top: 10px;
+    }
+
+    #applicantpro .joblist li {
+        padding: 10px 0;
+    }
+
+    #applicantpro .social-media a {
+        font-size: 30px;
+        margin-right: 4px;
+    }
+
+}
+
+@media (max-width : 450px) {
+    #applicantpro .job-time span {
+        display: block !important;
+        margin-left: 0 !important;
+        margin-top: 3px !important;
+    }
+}

@@ -1,0 +1,16 @@
+/**
+ * Admin specific css
+ */
+#applicantpro .form-table th,#applicantpro .form-table td{
+    padding:10px 0px !important;
+    vertical-align: middle;
+}
+
+#applicantpro .form-table .wp-picker-container .wp-color-result.button{
+    margin: 0px;
+}
+
+#applicantpro .map-table{}
+#applicantpro .col-md-3{float: left; width: 100%; margin-bottom: 10px; }
+#applicantpro .map-table span.span-1{display: inline-block; float: left; }
+#applicantpro .span-2{display: inline-block;line-height: 30px; width: 100px; float: left;}
